@@ -1,11 +1,11 @@
 [
     {
-		"name": "Adelle Corp",
-		"leaderName": "Kane",
+		"name": "The Bugs of Zone XX",
+		"leaderName": "Galey",
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Sample text.",
-		"startIntroPart2": "Sample text.",
+		"startIntroPart1": "You and your alliance of sentient bug monsters mamage to slip into a fragmented world where many others collide.",
+		"startIntroPart2": "However for Nightingale, leader of the Twintails Offics, business continues as usual as you find a way to go back from whence you came",
 		"declaringWar": "You stand in the way of my people. Let us solve this like warriors!",
 		"attacked": "You dare have the courage to challenge nod, but no fear, for I will sweep you out of history.",
 		"defeated": "You have the guts to call my body a corpse but beware, I know what will happen to our future- our tiberium future.",
@@ -13,10 +13,13 @@
 		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
 		"outerColor": [0,0,0],
 		"innerColor": [142,22,0],
-		"uniqueName": "Word of Nod",
-		"uniques": ["[+30]% Strength <vs [City-States]>", "[+2] Movement <for [Armored] units>"],
-		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
-"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+		"uniqueName": "A World of Eldrith Horrors",
+		"uniques": [
+			"Comment [You have access to a unique resource, Flesh]",
+			"Comment [You can create unique units by offering flesh to the hive]",
+			"Comment [You get a unique evolving unit, 'Nightingale' at the start of the game]"
+		],
+		"cities": ["Cheeky","Mister","Snowpowder","Mousetrap","Safari","Blade","Scotch Bonnet","Ringring","Beau"]
 	},
 
 	{
