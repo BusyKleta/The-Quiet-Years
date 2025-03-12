@@ -1,11 +1,11 @@
 [
     {
 		"name": "The Bugs of Zone XX",
-		"leaderName": "Galey",
+		"leaderName": "Nightingale",
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "You and your alliance of sentient bug monsters mamage to slip into a fragmented world where many others collide.",
-		"startIntroPart2": "However for Nightingale, leader of the Twintails Offics, business continues as usual as you find a way to go back from whence you came",
+		"startIntroPart1": "You, your office, and your alliance of sentient bug monsters mamage to slip into a fragmented world where many others collide.",
+		"startIntroPart2": "However, for the Rats, business continues as usual as you find a way to go back from whence you came",
 		"declaringWar": "You stand in the way of my people. Let us solve this like warriors!",
 		"attacked": "You dare have the courage to challenge nod, but no fear, for I will sweep you out of history.",
 		"defeated": "You have the guts to call my body a corpse but beware, I know what will happen to our future- our tiberium future.",
@@ -16,19 +16,20 @@
 		"uniqueName": "A World of Eldrith Horrors",
 		"uniques": [
 			"Comment [You have access to a unique resource, Flesh]",
-			"Comment [You can create unique units by offering flesh to the hive]",
-			"Comment [You get a unique evolving unit, 'Nightingale' at the start of the game]"
+			"Comment [You can create unique basic units by offering flesh to the hive]",
+			"Comment [You get a unique evolving unit, 'Nightingale' at the start of the game]",
+			"Comment [You can open a rift in dimensions to call on your officers]"
 		],
 		"cities": ["Cheeky","Mister","Snowpowder","Mousetrap","Safari","Blade","Scotch Bonnet","Ringring","Beau"]
 	},
 
 	{
-		"name": "The New Movement",
-		"leaderName": "Anton Slavik",
+		"name": "Kratyr",
+		"leaderName": "Nil",
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Sample text.",
-		"startIntroPart2": "Sample text",
+		"startIntroPart1": "In a fit of rage you erase the entirety of existence.",
+		"startIntroPart2": "Now in this new fragmented world you wish to atone for your mistakes and hopefully revive your divine siblings",
 		"declaringWar": "It is in  my Intentions to spread the word of Nod into your land.",
 		"attacked": "Pitiful fool! Now we shall destroy you!",
 		"defeated": "I see for the black hand has been unworthy to serve Kane.",
@@ -37,7 +38,11 @@
 		"outerColor": [139,0,0],
 		"innerColor": [0,0,0],
 		"uniqueName": "Purification",
-		"uniques": ["No damage penalty for wounded units <for [non-air] units>"],
+		"uniques": [
+			"Comment [You have access to a unique resource, Tala]",
+			"Comment [By building monuments and offering faith, you are able to revive your divine siblings]",
+			"Comment [You get a unique unit, 'Nil' at the start of the game]",
+		],
 		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
 "Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
 	}
